@@ -1,6 +1,6 @@
 function IndexPage() {
   return (
-    <h1>WWW.AMONG-US-SUS.COM</h1>
+    <h1>Yay! It worked!</h1>
   )
 }
 
