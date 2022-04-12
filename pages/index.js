@@ -1,6 +1,6 @@
 function IndexPage() {
   return (
-    <><h1>Yay! It worked!</h1><p1>This is another test</p1></>
+    <><h1>This is Kai</h1><img src="kai.jpg"></img></>
   )
 }
 
