@@ -1,6 +1,6 @@
 function IndexPage() {
   return (
-    <h1>Beluga whale be like</h1>
+    <h1>Test123</h1>
   )
 }
 
