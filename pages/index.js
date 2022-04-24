@@ -1,6 +1,6 @@
 function IndexPage() {
   return (
-    <h1>Test123</h1>
+    <h1>Why did I even make this? I have nothing to do with it...</h1>
   )
 }
 
