@@ -2,6 +2,7 @@ function IndexPage() {
   return (
     <div>
       <h1>I like Corgis</h1>
+      <h2>Test</h2>
       <img height="500px" width="750px" src="https://cdn.discordapp.com/attachments/970184543342575640/970188420091637790/Welchcorgipembroke.jpg"></img>
       <br>
       </br>
